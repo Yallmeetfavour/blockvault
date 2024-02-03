@@ -1,0 +1,146 @@
+.background{
+    background: url('image/image\ 12.png');
+    height: calc(100vh);
+    background-position: center;
+    background-size: cover;
+
+}  
+.navbar-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items:end;
+    margin-left: 580px;
+}
+.btn1{
+    border: none;
+    background-color: blue;
+    width: 100px;
+    padding: 7px;
+    color: white;
+    margin-left: 40px;
+}
+.Vector{
+    margin-left: 60px;
+    color: black;
+}
+.proj1{
+    margin-top: 140px;
+    margin-left: 50px;
+    
+}
+.text1{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffff;
+    font-weight: bold;
+}
+.p1{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffff;
+}
+.btn2{
+    background-color: blue;
+    color: #ffff;
+    width: 180px;
+    padding: 8px;
+    border: none;
+}
+.flex{
+    color: #ffff;
+    margin-left: 50px;
+}
+.proj2{
+    align-items: center;
+    text-align: center;
+}
+.border1{
+    border: 0.01px solid blue ;
+    width: 290px;
+    border-radius: 12px;
+    text-align: center;
+    color: #ffff;
+    
+    
+}
+.proj3{
+    background-color: black;
+    color: #ffff;
+    
+
+}
+.block{
+    text-align: center;
+}
+.proj4{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 250px;
+    border-bottom: 10px solid gray;
+
+}
+.main-proj{
+    background-color: black;
+}
+.proj5{
+    display: flex;
+    justify-content: space-evenly;
+    align-self: center;
+    color: #ffff;
+    padding-top: 70px;
+}
+.proj6{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: #ffff;
+    border-bottom: 2px solid grey;
+}
+.proj7{
+    padding: 30px;
+    background-color: black;
+    color: #ffff;
+
+    background:linear-gradient(to bottom(32, 0, 0, 0.4),rgba(32, 0, 0, 0.4),rgba(32, 0, 0, 0.4),)
+}
+#input{
+   border: none;
+   border-radius: 4px;
+   background-color: rgb(228, 227, 227);
+   padding: 4px;
+}
+.btn3{
+    border: none;
+    background-color: blue;
+    color:#ffff;
+    padding: 4px;
+    width: 180px;
+
+}
+.proj8{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.inline{
+    display: inline-block;
+}
+.proj9{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    color: #ffff;
+    padding: 20px;
+}
+.main-proj2{
+    background-color: black;
+}
+.border2{
+    border: 0.2px solid grey; 
+    width: 1050px;
+    margin-left: 120px;
+    height: 0.02px;
+}
+
